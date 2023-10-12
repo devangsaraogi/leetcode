@@ -19,8 +19,9 @@ public:
         int size = nums.size();
         bool flag = false;
         for(int i=0; i<size; i++) {
-            vector<int> y = rotateArray(nums, i);
-            flag = checkSort(y);
+            vector<int> result = rotateArray(nums, i);
+            flag = checkSort(result);
+            
             if (flag) return flag;
         }
         
