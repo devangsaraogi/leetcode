@@ -9,6 +9,7 @@ My LeetCode submissions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devangsaraogi/leetcode/tree/master/0001-two-sum) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/devangsaraogi/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,5 +26,10 @@ My LeetCode submissions.
 ## Simulation
 |  |
 | ------- |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/devangsaraogi/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/devangsaraogi/leetcode/tree/master/3447-clear-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/devangsaraogi/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
