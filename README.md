@@ -10,6 +10,7 @@ My LeetCode submissions.
 | ------- |
 | [0001-two-sum](https://github.com/devangsaraogi/leetcode/tree/master/0001-two-sum) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/devangsaraogi/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/devangsaraogi/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/devangsaraogi/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ My LeetCode submissions.
 |  |
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/devangsaraogi/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/devangsaraogi/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3447-clear-digits](https://github.com/devangsaraogi/leetcode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
@@ -33,4 +35,8 @@ My LeetCode submissions.
 |  |
 | ------- |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/devangsaraogi/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/devangsaraogi/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
