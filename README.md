@@ -9,6 +9,7 @@ My LeetCode submissions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devangsaraogi/leetcode/tree/master/0001-two-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/devangsaraogi/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/devangsaraogi/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -18,6 +19,7 @@ My LeetCode submissions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devangsaraogi/leetcode/tree/master/0001-two-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
