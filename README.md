@@ -13,6 +13,7 @@ My LeetCode submissions.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/devangsaraogi/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/devangsaraogi/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2107-find-unique-binary-string](https://github.com/devangsaraogi/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/devangsaraogi/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/devangsaraogi/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/devangsaraogi/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -22,11 +23,13 @@ My LeetCode submissions.
 | [0001-two-sum](https://github.com/devangsaraogi/leetcode/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2107-find-unique-binary-string](https://github.com/devangsaraogi/leetcode/tree/master/2107-find-unique-binary-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/devangsaraogi/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/devangsaraogi/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [2107-find-unique-binary-string](https://github.com/devangsaraogi/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/devangsaraogi/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3447-clear-digits](https://github.com/devangsaraogi/leetcode/tree/master/3447-clear-digits) |
 ## Stack
@@ -54,4 +57,8 @@ My LeetCode submissions.
 |  |
 | ------- |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/devangsaraogi/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/devangsaraogi/leetcode/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
