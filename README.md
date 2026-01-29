@@ -23,6 +23,7 @@ My LeetCode submissions.
 | ------- |
 | [0001-two-sum](https://github.com/devangsaraogi/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/devangsaraogi/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/devangsaraogi/leetcode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2107-find-unique-binary-string](https://github.com/devangsaraogi/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -30,6 +31,7 @@ My LeetCode submissions.
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/devangsaraogi/leetcode/tree/master/0242-valid-anagram) |
 | [1205-defanging-an-ip-address](https://github.com/devangsaraogi/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2107-find-unique-binary-string](https://github.com/devangsaraogi/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/devangsaraogi/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -67,4 +69,5 @@ My LeetCode submissions.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/devangsaraogi/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/devangsaraogi/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
