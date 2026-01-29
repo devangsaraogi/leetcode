@@ -9,7 +9,7 @@ public:
         int x;
         for(int i=0; i<nums.size(); i++) {
             x = target - nums[i];
-            if (um[x] and i!= um[x]) return {i, um[x]};
+            if (um.find(x) != um.end() and i!= um[x]) return {i, um[x]};
         }
 
         return {0, 0};
