@@ -1,22 +1,33 @@
 class Solution {
 public:
+    string generateFingerPrint(string s) {
+        // initialize counter array
+        int arr[26] = {0};
+
+        // initialize fingerprint string
+        string sFinger;
+
+        for(auto &ch: s) arr[ch - 'a']++;
+        for(int i=0; i<26; i++) {
+            if (arr[i]) sFinger += char('a'+ i) + to_string(arr[i]);
+        } 
+        return sFinger;
+    }
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        // hash table
-        unordered_map <string, vector<string>> hmap;
+        // hashtable
+        unordered_map<string, vector<string>> umap;
 
         vector<vector<string>> result;
 
-        // create a copy of input vector
-        vector<string> strscpy = strs;
+        for (int i=0; i<strs.size(); i++) {
+            // call helper function 
+            string sFinger = generateFingerPrint(strs[i]);
 
-        // sorting each element in copy vector
-        for(int i=0; i<strscpy.size(); i++) {
-            sort(strscpy[i].begin(), strscpy[i].end());
-            hmap[strscpy[i]].push_back(strs[i]);
+            // insert into hashtable
+            umap[sFinger].push_back(strs[i]);
         }
 
-        // using hash table to get back the final output
-        for (auto k: hmap) result.push_back(k.second);
+        for (auto &k : umap) result.push_back(k.second);
 
         return result;
     }
