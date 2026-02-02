@@ -11,6 +11,7 @@ My LeetCode submissions.
 | [0001-two-sum](https://github.com/devangsaraogi/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/devangsaraogi/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/devangsaraogi/leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/devangsaraogi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1755-defuse-the-bomb](https://github.com/devangsaraogi/leetcode/tree/master/1755-defuse-the-bomb) |
@@ -26,6 +27,7 @@ My LeetCode submissions.
 | [0049-group-anagrams](https://github.com/devangsaraogi/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/devangsaraogi/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devangsaraogi/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/devangsaraogi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2107-find-unique-binary-string](https://github.com/devangsaraogi/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -51,6 +53,7 @@ My LeetCode submissions.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/devangsaraogi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/devangsaraogi/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## String Matching
 |  |
@@ -74,4 +77,21 @@ My LeetCode submissions.
 | [0049-group-anagrams](https://github.com/devangsaraogi/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/devangsaraogi/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devangsaraogi/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/devangsaraogi/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/devangsaraogi/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/devangsaraogi/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/devangsaraogi/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/devangsaraogi/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
