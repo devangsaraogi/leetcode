@@ -40,6 +40,7 @@ My LeetCode submissions.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/devangsaraogi/leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/devangsaraogi/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/devangsaraogi/leetcode/tree/master/0242-valid-anagram) |
 | [1205-defanging-an-ip-address](https://github.com/devangsaraogi/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2107-find-unique-binary-string](https://github.com/devangsaraogi/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -106,4 +107,8 @@ My LeetCode submissions.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/devangsaraogi/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/devangsaraogi/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
