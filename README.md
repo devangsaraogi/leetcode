@@ -18,6 +18,7 @@ My LeetCode submissions.
 | [0347-top-k-frequent-elements](https://github.com/devangsaraogi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0740-delete-and-earn](https://github.com/devangsaraogi/leetcode/tree/master/0740-delete-and-earn) |
 | [1755-defuse-the-bomb](https://github.com/devangsaraogi/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/devangsaraogi/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/devangsaraogi/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -36,6 +37,7 @@ My LeetCode submissions.
 | [0347-top-k-frequent-elements](https://github.com/devangsaraogi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0740-delete-and-earn](https://github.com/devangsaraogi/leetcode/tree/master/0740-delete-and-earn) |
 | [2107-find-unique-binary-string](https://github.com/devangsaraogi/leetcode/tree/master/2107-find-unique-binary-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/devangsaraogi/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -120,4 +122,8 @@ My LeetCode submissions.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devangsaraogi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0740-delete-and-earn](https://github.com/devangsaraogi/leetcode/tree/master/0740-delete-and-earn) |
 <!---LeetCode Topics End-->
