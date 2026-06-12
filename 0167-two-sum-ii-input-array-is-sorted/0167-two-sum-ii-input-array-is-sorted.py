@@ -1,13 +1,16 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        track = {}
+        p1 = 0
+        p2 = len(numbers)-1
 
-        for idx, num in enumerate(numbers):
-            comp = target-num
-
-            if comp in track:
-                return sorted([track[comp]+1, idx+1])
-
-            track[num] = idx
-
+        while (p1 < p2):
+            if numbers[p1] + numbers[p2] < target:
+                p1+=1
+            elif numbers[p1] + numbers[p2] > target:
+                p2-=1
+            elif numbers[p1] + numbers[p2] == target:
+                return [p1+1, p2+1]
+            else:
+                return []
+        
         return []
