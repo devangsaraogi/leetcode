@@ -4,11 +4,12 @@ class Solution:
         p2 = len(numbers)-1
 
         while (p1 < p2):
-            if numbers[p1] + numbers[p2] < target:
+            total = numbers[p1] + numbers[p2]
+            if total < target:
                 p1+=1
-            elif numbers[p1] + numbers[p2] > target:
+            elif total > target:
                 p2-=1
-            elif numbers[p1] + numbers[p2] == target:
+            elif total == target:
                 return [p1+1, p2+1]
             else:
                 return []
