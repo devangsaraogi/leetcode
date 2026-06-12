@@ -23,6 +23,7 @@ My LeetCode submissions.
 | [0740-delete-and-earn](https://github.com/devangsaraogi/leetcode/tree/master/0740-delete-and-earn) |
 | [1755-defuse-the-bomb](https://github.com/devangsaraogi/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/devangsaraogi/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/devangsaraogi/leetcode/tree/master/1929-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/devangsaraogi/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/devangsaraogi/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/devangsaraogi/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -59,6 +60,7 @@ My LeetCode submissions.
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/devangsaraogi/leetcode/tree/master/1929-concatenation-of-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/devangsaraogi/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/devangsaraogi/leetcode/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
