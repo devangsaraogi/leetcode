@@ -19,7 +19,7 @@ class Solution(object):
 
             if nums[p1] == val:
                 nums[p1] = nums[p2]
-                nums[p2] = "_"
+                nums[p2] = val
                 p2-=1
                 k+=1
 
