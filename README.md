@@ -23,6 +23,7 @@ My LeetCode submissions.
 | [0347-top-k-frequent-elements](https://github.com/devangsaraogi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0705-design-hashset](https://github.com/devangsaraogi/leetcode/tree/master/0705-design-hashset) |
 | [0740-delete-and-earn](https://github.com/devangsaraogi/leetcode/tree/master/0740-delete-and-earn) |
 | [1755-defuse-the-bomb](https://github.com/devangsaraogi/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/devangsaraogi/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -44,6 +45,7 @@ My LeetCode submissions.
 | [0347-top-k-frequent-elements](https://github.com/devangsaraogi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0705-design-hashset](https://github.com/devangsaraogi/leetcode/tree/master/0705-design-hashset) |
 | [0740-delete-and-earn](https://github.com/devangsaraogi/leetcode/tree/master/0740-delete-and-earn) |
 | [2107-find-unique-binary-string](https://github.com/devangsaraogi/leetcode/tree/master/2107-find-unique-binary-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/devangsaraogi/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -158,4 +160,16 @@ My LeetCode submissions.
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/devangsaraogi/leetcode/tree/master/0680-valid-palindrome-ii) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/devangsaraogi/leetcode/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/devangsaraogi/leetcode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/devangsaraogi/leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
