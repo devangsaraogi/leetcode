@@ -19,19 +19,20 @@ class Solution:
         #    if -k in store.keys():
 
         nums.sort()
+        n = len(nums)
 
         result = []
 
-        for i in range(len(nums)-3):
+        for i in range(n-3):
             if i>0 and nums[i] == nums[i-1]:
                 continue
 
-            for j in range(i+1, len(nums)-2):
+            for j in range(i+1, n-2):
                 if j>i+1 and nums[j] == nums[j-1]:
                     continue
 
                 l = j+1
-                r = len(nums)-1
+                r = n-1
 
                 while (l < r):
                     curr_sum = nums[i] + nums[j]
@@ -49,7 +50,7 @@ class Solution:
                         while l < r and nums[l] == nums[l - 1]:
                             l += 1
                             
-                        while l < r and r < len(nums)-1 and nums[r] == nums[r + 1]:
+                        while l < r and r < n-1 and nums[r] == nums[r + 1]:
                             r -= 1
 
         return result
