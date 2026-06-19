@@ -15,6 +15,7 @@ My LeetCode submissions.
 | [0027-remove-element](https://github.com/devangsaraogi/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/devangsaraogi/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/devangsaraogi/leetcode/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devangsaraogi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/devangsaraogi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devangsaraogi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/devangsaraogi/leetcode/tree/master/0169-majority-element) |
@@ -40,6 +41,7 @@ My LeetCode submissions.
 | [0001-two-sum](https://github.com/devangsaraogi/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/devangsaraogi/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/devangsaraogi/leetcode/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devangsaraogi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/devangsaraogi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/devangsaraogi/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/devangsaraogi/leetcode/tree/master/0217-contains-duplicate) |
@@ -110,6 +112,7 @@ My LeetCode submissions.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devangsaraogi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/devangsaraogi/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/devangsaraogi/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
@@ -178,4 +181,12 @@ My LeetCode submissions.
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/devangsaraogi/leetcode/tree/master/0705-design-hashset) |
+## Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devangsaraogi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devangsaraogi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
