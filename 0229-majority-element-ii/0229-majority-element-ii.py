@@ -1,18 +1,35 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
-        f = len(nums) // 3
+        if not nums:
+            return []
 
-        store = {}
-        result = []
+        count1 = count2 = 0
+        candidate1 = candidate2 = None
 
         for i in nums:
-            if store.get(i):
-                store[i] += 1
+            if i == candidate1:
+                count1+=1
+            elif i == candidate2:
+                count2+=1
+            elif count1 == 0:
+                candidate1 = i
+                count1 = 1
+            elif count2 == 0:
+                candidate2 = i
+                count2 = 1
             else:
-                store[i] = 1   
+                count1-=1
+                count2-=1
+            
+        result = []
+        count = len(nums)//3
 
-        for key in store.keys():
-            if store[key] > f:
-                result.append(key)
+        act_count1 = nums.count(candidate1)
+        act_count2 = nums.count(candidate2)
 
-        return result        
+        if act_count1 > count:
+            result.append(candidate1)
+        if candidate1 != candidate2 and act_count2 > count:
+            result.append(candidate2)
+        
+        return result
