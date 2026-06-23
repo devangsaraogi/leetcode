@@ -23,6 +23,7 @@ My LeetCode submissions.
 | [0189-rotate-array](https://github.com/devangsaraogi/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/devangsaraogi/leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/devangsaraogi/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/devangsaraogi/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/devangsaraogi/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/devangsaraogi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -47,6 +48,7 @@ My LeetCode submissions.
 | [0128-longest-consecutive-sequence](https://github.com/devangsaraogi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/devangsaraogi/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/devangsaraogi/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/devangsaraogi/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/devangsaraogi/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/devangsaraogi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -110,6 +112,7 @@ My LeetCode submissions.
 | [0049-group-anagrams](https://github.com/devangsaraogi/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/devangsaraogi/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/devangsaraogi/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/devangsaraogi/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/devangsaraogi/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/devangsaraogi/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0912-sort-an-array) |
@@ -129,6 +132,7 @@ My LeetCode submissions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devangsaraogi/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/devangsaraogi/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/devangsaraogi/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
