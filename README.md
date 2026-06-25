@@ -17,6 +17,7 @@ My LeetCode submissions.
 | [0036-valid-sudoku](https://github.com/devangsaraogi/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/devangsaraogi/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/devangsaraogi/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devangsaraogi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/devangsaraogi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/devangsaraogi/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/devangsaraogi/leetcode/tree/master/0169-majority-element) |
@@ -169,6 +170,7 @@ My LeetCode submissions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devangsaraogi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/devangsaraogi/leetcode/tree/master/0198-house-robber) |
 | [0740-delete-and-earn](https://github.com/devangsaraogi/leetcode/tree/master/0740-delete-and-earn) |
 ## Prefix Sum
