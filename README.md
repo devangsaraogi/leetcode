@@ -23,6 +23,7 @@ My LeetCode submissions.
 | [0169-majority-element](https://github.com/devangsaraogi/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/devangsaraogi/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/devangsaraogi/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/devangsaraogi/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/devangsaraogi/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/devangsaraogi/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/devangsaraogi/leetcode/tree/master/0229-majority-element-ii) |
@@ -149,10 +150,12 @@ My LeetCode submissions.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/devangsaraogi/leetcode/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/devangsaraogi/leetcode/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/devangsaraogi/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/devangsaraogi/leetcode/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -221,4 +224,12 @@ My LeetCode submissions.
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/devangsaraogi/leetcode/tree/master/0912-sort-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/devangsaraogi/leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/devangsaraogi/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
