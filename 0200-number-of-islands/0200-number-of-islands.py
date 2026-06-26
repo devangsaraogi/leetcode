@@ -8,7 +8,7 @@ class Solution:
 
         i = 0
 
-        def dfs(row: int, col: int):
+        def dfs(row: int, col: int) -> None:
             if(row>=rows or row<0 or col>=cols or col<0 or grid[row][col] == "0"):
                 return None
 
